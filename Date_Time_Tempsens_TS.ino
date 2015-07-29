@@ -12,7 +12,7 @@
 #include <Wire.h>
 
 
-  const char* ssid     = "....";
+  const char* ssid     = "...."; // of course SSID/PW needs to be added properly
   const char* password = "....";
   // const char* host = "utcnist2.colorado.edu";
   const char* host = "128.138.141.172";
