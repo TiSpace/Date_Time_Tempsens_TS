@@ -12,8 +12,8 @@
 #include <Wire.h>
 
 
-  const char* ssid     = "Cassiopeia";
-  const char* password = "Australien2000+2002";
+  const char* ssid     = "....";
+  const char* password = "....";
   // const char* host = "utcnist2.colorado.edu";
   const char* host = "128.138.141.172";
 
